@@ -1,4 +1,4 @@
 # README
 
-Finance Tracker App
+Finance Tracker App Created In rails 6.
 
